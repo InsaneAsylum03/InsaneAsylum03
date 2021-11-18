@@ -1,0 +1,5 @@
+- Hi, I’m @InsaneAsylum03
+- I’m interested in Video Games, Anime
+- Yeah I'm typical NERD
+- I’m currently learning pygame
+- My youtube < https://www.youtube.com/channel/UCQtYuBsYpKPDHv68HiYDTHQ/featured >
