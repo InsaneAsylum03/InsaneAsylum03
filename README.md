@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=insaneasylum03" alt="insaneasylum03" /></a> </p>
 
-- 🔭 I’m currently working on **ResQMate**
+- 🔭 I’m currently working on **ResQMate**, a Mobile App project
 
 - 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **Mobile App Projects**
 
-- 📫 How to reach me **sriramaravindh.25cs@licet.ac.in**
+- 📫 Reach me here **sriramaravindh.25cs@licet.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
