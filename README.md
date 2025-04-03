@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sriram Aravindh</h1>
-<h3 align="center">As aspiring Mobile App developer from India</h3>
+<h3 align="center">An aspiring Mobile App developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=insaneasylum03&label=Profile%20views&color=0e75b6&style=flat" alt="insaneasylum03" /> </p>
 
